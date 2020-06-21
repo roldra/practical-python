@@ -1,3 +1,6 @@
+﻿# Greetings from Roldra
+
+
 # Welcome!
 
 When I first learned Python nearly 25 years ago, I was immediately
